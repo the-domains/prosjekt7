@@ -1,0 +1,28 @@
+name: Prosjekt7
+favicon: null
+layout_spectrum: 0.5707699521444738
+typography_spectrum: 0.4146652459166944
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.19733567815274
+  lightness: 0.8656782270409167
+  saturation: 0.5686375207733363
+  rhythmicContrast: 0.8910634804051369
+purpose: []
