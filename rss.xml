@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Prosjekt7]]></title>
         <description><![CDATA[Prosjekt7]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/prosjekt7/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 22:08:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 12:02:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/prosjekt7/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c44615f4-e2b2-473a-8f78-29a2f7237c10.jpg">]]></description>
+            <link>https://thegrid.ai/prosjekt7/her-kommer-en-ny-post-pa-prosjekt-7/index.html</link>
+            <guid isPermaLink="false">5bc79250-fd3a-4a4c-879f-79e7a92e9f69</guid>
+            <pubDate>Thu, 18 Aug 2016 12:02:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Prosjekt 7 AS er et selskap spisset på utvikling og innovasjon av produkter og tjenester innen media og markedsføring. </p>]]></description>
-            <link>undefined7747d076-8938-406f-8a1e-087c9e5fe5f2/index.html</link>
+            <link>https://thegrid.ai/prosjekt7/7747d076-8938-406f-8a1e-087c9e5fe5f2/index.html</link>
             <guid isPermaLink="false">7747d076-8938-406f-8a1e-087c9e5fe5f2</guid>
             <pubDate>Mon, 25 Jan 2016 22:08:45 GMT</pubDate>
         </item>
